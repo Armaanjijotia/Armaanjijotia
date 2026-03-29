@@ -1,39 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋, I'm Armaan Jijotia</h1>
+<h3 align="center">Java Developer | DSA Enthusiast | LeetCode Practitioner</h3>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/armaan-jijotia-1a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="https://leetcode.com/u/armaan_jijotia25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25"/>
+  </a>
+</div>
+
+###
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaanjijotia&theme=dark" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Armaanjijotia&theme=dracula&row=1&column=6" height="150"/>
+</div>
+
+###
+
+<h3 align="center">🧠 LeetCode Progress</h3>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/armaan_jijotia25?theme=dark&font=Nunito&ext=heatmap" />
+</div>
