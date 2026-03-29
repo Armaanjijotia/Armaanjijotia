@@ -1,32 +1,39 @@
-# Hi, I'm Armaan 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-💻 DSA & Problem Solving Enthusiast  
-📍 Solved 90+ problems on LeetCode  
-🧠 Focused on Data Structures, Algorithms, and Java
+###
 
----
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-## 🔥 Current Progress
+###
 
-- LeetCode Problems Solved: **93**
-- Hard Problems: **16**
-- Languages: Java, Python
+<h2 align="left">About me</h2>
 
----
+###
 
-## 📂 Featured Repositories
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-### 🔹 DSA by Java
-Solutions to LeetCode problems categorized by topic:
-- Arrays
-- Backtracking
-- Sliding Window
-- Dynamic Programming
+###
 
-👉 https://github.com/Armaanjijotia/DSA-by-java
+<h2 align="left">I code with</h2>
 
----
+###
 
-## 📈 GitHub Stats
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Armaanjijotia&show_icons=true&theme=tokyonight)
+###
