@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Armaan 👋
 
-<!--
-**Armaanjijotia/Armaanjijotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 DSA & Problem Solving Enthusiast  
+📍 Solved 90+ problems on LeetCode  
+🧠 Focused on Data Structures, Algorithms, and Java
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Progress
+
+- LeetCode Problems Solved: **93**
+- Hard Problems: **16**
+- Languages: Java, Python
+
+---
+
+## 📂 Featured Repositories
+
+### 🔹 DSA by Java
+Solutions to LeetCode problems categorized by topic:
+- Arrays
+- Backtracking
+- Sliding Window
+- Dynamic Programming
+
+👉 https://github.com/Armaanjijotia/DSA-by-java
+
+---
+
+## 📈 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Armaanjijotia&show_icons=true&theme=tokyonight)
